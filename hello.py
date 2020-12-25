@@ -8,6 +8,7 @@ print("2")
 print("2")
 print("2")
 if (__name__ == '__main__'):
+    print("23")
     print("man" + "test" + "newTest")
     print("1")
     print("1")
