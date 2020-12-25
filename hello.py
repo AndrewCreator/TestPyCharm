@@ -1,4 +1,6 @@
 sIDK = "test"
+print("23")
+print("23")
 def dNewDef():
     pass
 
