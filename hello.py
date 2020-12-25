@@ -4,7 +4,7 @@ print("23")
 def dNewDef():
     pass
 
-print('imported from:', __name__)
+print('imported from: ffffff', __name__)
 
 if (__name__ == '__main__'):
     print("man" + "test" + "newTest")
