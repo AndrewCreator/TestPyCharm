@@ -5,7 +5,7 @@ def dNewDef():
 print('imported from:', __name__)
 
 print("2")
-
+print("2")
 if (__name__ == '__main__'):
     print("man" + "test" + "newTest")
     print("1")
